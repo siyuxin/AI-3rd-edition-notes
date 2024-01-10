@@ -3,7 +3,7 @@
 ## 项目背景
 
 《人工智能（第3版）》，这部被誉为人工智能“百科全书”，可以作为每个技术人进入 AI 世界的第一本书。2023年重磅升级，以人为本，与时俱进，美国人工智能领域的权威经典教材，受到广大师生的广泛好评。中文版更是被近百所高校采用，作为专业教科书使用。
-
+<a href="url"><img src="https://github.com/siyuxin/AI-3rd-edition-notes/blob/main/image.jpg" height="280" width="280" ></a>
 
 ## 任务安排
 
